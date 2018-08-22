@@ -1,1 +1,1 @@
-hi this is the first story.
+This is the third and final story of the folder. Please do not add any code here.
