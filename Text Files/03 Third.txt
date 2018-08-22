@@ -1,3 +1,6 @@
+This is the third and final story of the folder. Okay, we can add some code.
+<p>
+<p>
  while (foo = getNext(bar)) {	
    filterThis = false;		
    if (condition1) {		
@@ -16,4 +19,3 @@
  Named tokens: 20
  Symbolic tokens: 5  ("!", "=", etc.)
  Brackets and parenths: 24
- Total Characters: ?
