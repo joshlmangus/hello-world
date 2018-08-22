@@ -1,1 +1,19 @@
-hi this is the first story.
+ while (foo = getNext(bar)) {	
+   filterThis = false;		
+   if (condition1) {		
+     doSomething();		  
+     filterThis = true		
+     if (condition2) {		
+       doSomethingElse();		
+       filterThis = glob();	  
+     }				
+   }				
+   if (! filterThis) {		
+    process(foo);	
+   }				
+ } 	
+
+ Named tokens: 20
+ Symbolic tokens: 5  ("!", "=", etc.)
+ Brackets and parenths: 24
+ Total Characters: ?
